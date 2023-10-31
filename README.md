@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leakeybraxton
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning code igniter
-- 💞️ I’m looking to collaborate on code igniter based projects
+- 💞️ I’m looking to collaborate on Node.js based projects
 - 📫 How to reach me leakeybraxton@gmail.com
 
 <!---
